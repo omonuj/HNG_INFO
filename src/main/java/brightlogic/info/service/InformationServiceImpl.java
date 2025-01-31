@@ -16,7 +16,7 @@ public class InformationServiceImpl implements InformationService {
         String email = "Jonahodoh@gmail.com";
         LocalDateTime now = LocalDateTime.now();
         String timestamp = now.format(DateTimeFormatter.ISO_DATE_TIME);
-        String githubUrl = "https://github.com/omonuj/HNG_Task";
+        String githubUrl = "https://github.com/omonuj/HNG_INFO";
 
 
 
